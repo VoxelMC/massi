@@ -4,10 +4,10 @@
 [![Hex Docs](https://img.shields.io/badge/hex-docs-ffaff3)](https://hexdocs.pm/massif/)
 
 ```sh
-gleam add massif
+gleam add massi
 ```
 ```gleam
-import massif
+import massi
 
 pub fn main() {
   // TODO: An example of the project in use
