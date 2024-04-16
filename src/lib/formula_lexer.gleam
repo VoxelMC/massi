@@ -11,9 +11,16 @@ import colored
 /// the end of a formula.
 pub type Token {
   Hydrogen
+  Helium
+  Beryllium
+  Boron
   Carbon
   Nitrogen
   Oxygen
+  Fluorine
+  Neon
+  Sodium
+  Magnesium
 
   Bromine
   Number(value: Int)

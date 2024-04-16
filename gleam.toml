@@ -6,10 +6,10 @@ version = "1.0.0"
 #
 description = "This is a command-line tool to calculate molecular masses from formulae. Accepts molecular and SMILES formulae."
 licences = ["Apache-2.0"]
-repository = { type = "github", user = "VoxelMC", repo = "massif" }
+repository = { type = "github", user = "VoxelMC", repo = "massi" }
 links = [
-	{ title = "Homepage", href = "https://massif.trevfox.dev" },
-	{ title = "Documentation", href = "https://massif.trevfox.dev/docs" },
+	{ title = "Homepage", href = "https://massi.trevfox.dev" },
+	{ title = "Documentation", href = "https://massi.trevfox.dev/docs" },
 ]
 #
 # For a full reference of all the available options, you can have a look at
